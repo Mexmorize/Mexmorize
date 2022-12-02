@@ -11,8 +11,8 @@
 - ⚡: In my free time, I love playing video games or learning about new emerging technologies
 
 - 📫: How to reach me: 
-  - [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-butmir-340b34b5/)
-  - Personal website: [https://benjamin](https://benjaminbutmir.com/)
+  - [![Linkedin Badge](https://img.shields.io/badge/-BenButmir-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-butmir-340b34b5/)
+  - Personal website: [https://benjaminbutmir.com](https://benjaminbutmir.com/)
 
 
 ### 🛠️ Languages and Tools :
