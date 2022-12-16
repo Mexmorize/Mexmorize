@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
+<img align="right" src="https://komarev.com/ghpvc/?username=yorek&color=brightgreen" alt="yorek profile views" />
 
 ### 👨‍💻 About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
