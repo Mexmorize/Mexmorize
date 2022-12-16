@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
-  <img align="right" src="https://komarev.com/ghpvc/?username=Mexmorize&color=brightgreen" alt="Mexmorize profile views" />
 </div>
 
+<img align="right" src="https://komarev.com/ghpvc/?username=Mexmorize&color=brightgreen" alt="Mexmorize profile views" />
 ### 👨‍💻 About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
 - 🔭: I’m working as a Full Stack Developer and contributing to frontend and backend for building web applications.
