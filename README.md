@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=Mexmorize&color=brightgreen" alt="Mexmorize profile views" />
+
 ### 👨‍💻 About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
 - 🔭: I’m working as a Full Stack Developer and contributing to frontend and backend for building web applications.
@@ -41,3 +41,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mexmorize&theme=highcontrast&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mexmorize&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="right" src="https://komarev.com/ghpvc/?username=Mexmorize&color=brightgreen" alt="Mexmorize profile views" />
