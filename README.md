@@ -6,17 +6,17 @@
 </div>
 
 
-### 👨‍💻 About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
+### 👨‍💻 About Me : I am a Senior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
 - 🔭: I’m working as a Full Stack Developer and contributing to frontend and backend for building web applications.
 
-- 🌱: Exploring Data Science and Maching Learning
+- 🌱: Exploring Data Science and Machine Learning
 
 - ⚡: In my free time, I love playing video games or learning about new emerging technologies
 
 - 📫: How to reach me: 
   - [![Linkedin Badge](https://img.shields.io/badge/-BenButmir-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-butmir-340b34b5/)
-  - Personal website: [https://benjaminbutmir.com](https://benjaminbutmir.com/)
+  - Personal website: [https://benbutmir.com](https://benbutmir.com/)
 
 
 ### 🛠️ Languages and Tools :
