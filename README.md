@@ -6,11 +6,11 @@
 </div>
 
 
-### 👨‍💻 About Me : I am a Senior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
+### 👨‍💻 About Me : I am a Full Stack / Senior Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
-- 🔭: I’m working as a Full Stack Developer and contributing to frontend and backend for building web applications.
+- 🔭: I’ve worked as a Cloud Developer, Full Stack, Data Engineer, and Scientist and I'm currently working on frontend, backend, and AI tools for web applications.
 
-- 🌱: Exploring Data Science and Machine Learning
+- 🌱: Exploring Data Science and GenAI
 
 - ⚡: In my free time, I love playing video games or learning about new emerging technologies
 
